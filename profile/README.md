@@ -7,6 +7,7 @@ Experimental Programming (2016-2026) is a pioneering community and knowledge pla
 - Website：https://code2art.com/
 - Bilibili：https://space.bilibili.com/309452713
 - 公众号/WeChat Official Account：
+<img src="./qr-wx.png" alt="公众号/WeChat Official Account" title="实验编程公众号" width="200px">
 
 <!--
 
